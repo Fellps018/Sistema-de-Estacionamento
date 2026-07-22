@@ -4,6 +4,18 @@ Este projeto é um sistema simples de estacionamento desenvolvido em Java com fo
 
 ---
 
+## ▶️ Como Usar?
+Basta fazer download do pacote .zip e extrair no diretório de sua preferência.
+Depois caminhe  até o arquivo ```App.java``` e use ```java App.java``` para inicializar o programa.
+
+Se você já estiver extraido e já caminhaou até sua pasta pelo terminal, mas não sabe como prosseguir, use esse código em ordem:
+<br>
+ 1: ```cd Sistema-de-Estacionamento-master/src```
+<br>
+ 2: ```java App.java``` 
+
+---
+
 ## 🧠 Ideia por trás do projeto
 
 A proposta principal não é simular um estacionamento realista, mas sim criar um **modelo abstrato de controle de vagas**.
