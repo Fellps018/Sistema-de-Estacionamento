@@ -80,5 +80,5 @@ O objetivo é demonstrar:
 ## 📌 Tecnologias
 
 - Java
-- API de data/hora (`LocalTime`)
+- Biblioteca de data/hora (`LocalTime`)
 - Estruturas de dados básicas (`ArrayList`, `HashMap`)
